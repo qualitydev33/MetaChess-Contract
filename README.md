@@ -1,1 +1,1 @@
-# MetaChess-Contract
+# Metachess contracts
